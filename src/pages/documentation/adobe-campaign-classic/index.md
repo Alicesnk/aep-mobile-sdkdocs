@@ -1,6 +1,8 @@
 import Tabs from './tabs/index.md'
 
-# Adobe Campaign Classic
+# Adobe Campaign Classic (v7/v8)
+
+Adobe Campaign Classic extension supports both Campaign v7 and v8.
 
 ## Configure Campaign Classic extension in the Data Collection UI
 
